@@ -8,7 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [<kbd>Download from Google Drive</kbd>](https://drive.google.com/file/d/1h0itaEgT97Cn79PRw13V_mBOboH0c6YD/view?usp=sharing)
 
-[<kbd>Download from Baidu Netdisk</kb>](https://pan.baidu.com/s/1igJl0pO_yVWlkV44ypW6nQ) Password:`p3xe`
+
+[<kbd>Download from Baidu Netdisk</kbd>](https://pan.baidu.com/s/1igJl0pO_yVWlkV44ypW6nQ) Password:`p3xe`
 
 ### Markdown
 
