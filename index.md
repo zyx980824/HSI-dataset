@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/zyx980824/HSI-dataset/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![SC-1](https://raw.githubusercontent.com/zyx980824/HSI-dataset/main/preview/SC.png))
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
