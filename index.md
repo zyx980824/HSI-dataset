@@ -19,7 +19,7 @@ This self-collected HSI dataset contains five different hyperspectral images fro
 - Location：Jinshatan Road, Gate of Shanghai Theatre Academy, Qingdao, China
 - Ground features types: Including 10 types of ground features, such as building，tree，road, car, playground, grass, brick house, iron house, steel sports hall, and land.
 - Size: The data size of each pair is 500×500 pixels. Which are small subscene HSI images cut in 500 × 500 pixels from the total image in 3091×3129 pixels.
-- Property The dataset contains 360 spectral reflectance bands, and the spectral range is 393.0000-1011.4400nm. The spatial resolution is 16 cm and the spectral resolution is 3.5 nm.
+- Property：The dataset contains 360 spectral reflectance bands, and the spectral range is 393.0000-1011.4400nm. The spatial resolution is 16 cm and the spectral resolution is 3.5 nm.
 - Format：`.mat`
 
 ### Dataset Preview
