@@ -30,7 +30,7 @@ This self-collected HSI dataset contains five different hyperspectral images fro
 
 - This data set is jointly collected by Changchun Institute of Optics, Fine Mechanics and Physics, Chinese Academy of Sciences and China University of Petroleum (East China).
 - Any questions with this dataset? Check out our paper and [contact support](https://github.com/zyx980824/HSI-dataset) and we'll help you sort it out.
-- If there is any need for cooperation, please send an email to liuqy@ciomp.ac.cn.
+- If there is any need for cooperation, please send an email to <u>liuqy@ciomp.ac.cn</u>.
 
 ### License
 
