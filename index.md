@@ -15,7 +15,7 @@ This self-collected dataset contains five different hyperspectral images. And th
 
 - Collection date: June 21, 2020
 - Location：Jinshatan Road, Gate of Shanghai Theatre Academy, Qingdao, China
-- Ground features types: Including 11 types of ground features, such as building，tree，road, car, playground, grass, brick house, iron house, steel sports hall, hand, and goods.
+- Ground features types: Including 11 types of ground features, such as building,tree, road, car, playground, grass, brick house, iron house, steel sports hall, hand, and goods.
 - Size: The data size of each pair is 500×500, including 360 spectral bands, and the spectral range is 393.0000-1011.4400nm
 - Format：`.mat`
 
