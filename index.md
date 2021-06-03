@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/zyx980824/HSI-dataset/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![SC](https://imgtu.com/i/2IWufe)
+![SC](https://z3.ax1x.com/2021/06/03/2lWufe.png)
 
 - [<kbd>Download from Google Drive</kbd>](https://drive.google.com/file/d/1h0itaEgT97Cn79PRw13V_mBOboH0c6YD/view?usp=sharing)
 
