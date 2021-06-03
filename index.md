@@ -7,7 +7,7 @@ This dataset can be used to perform classification techniques in hyperspectral i
 This data set provides two ways to download, you can download from Google network disk or Baidu network disk.
 
 - [<kbd>Download from Google Drive</kbd>](https://drive.google.com/file/d/1h0itaEgT97Cn79PRw13V_mBOboH0c6YD/view?usp=sharing)
-- [<kbd>Download from Baidu Netdisk</kbd>](https://pan.baidu.com/s/1igJl0pO_yVWlkV44ypW6nQ) （password:`p3xe`）
+- [<kbd>Download from Baidu Netdisk</kbd>](https://pan.baidu.com/s/1igJl0pO_yVWlkV44ypW6nQ) （password：`p3xe`）
 
 ## Dataset Description
 
