@@ -1,15 +1,15 @@
-# Welcome to HSI-dataset
+## Welcome to HSI-dataset
 
 This dataset can be used to perform classification techniques in hyperspectral images.
 
-## Dataset Download
+### Dataset Download
 
 This data set provides two ways to download, you can download from Google network disk or Baidu network disk.
 
 - [<kbd>Download from Google Drive</kbd>](https://drive.google.com/file/d/1h0itaEgT97Cn79PRw13V_mBOboH0c6YD/view?usp=sharing)
 - [<kbd>Download from Baidu Netdisk</kbd>](https://pan.baidu.com/s/1igJl0pO_yVWlkV44ypW6nQ) （password：`p3xe`）
 
-## Dataset Description
+### Dataset Description
 
 This self-collected dataset contains five different hyperspectral images. And the following is the detailed information.
 
@@ -20,7 +20,7 @@ This self-collected dataset contains five different hyperspectral images. And th
 - Format：`.mat`
 
 
-## Dataset Preview
+### Dataset Preview
 
 ![SC](https://z3.ax1x.com/2021/06/03/2lWufe.png)
 
@@ -28,7 +28,7 @@ This self-collected dataset contains five different hyperspectral images. And th
 
 Any questions with this dataset? Check out our paper and [contact support](https://github.com/zyx980824/HSI-dataset) and we’ll help you sort it out.
 
-## License
+### License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License.
 You can use this dataset on your publication. When including a link to this dataset, please use this page instead of linking the file directly.
