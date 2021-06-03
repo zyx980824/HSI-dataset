@@ -2,7 +2,7 @@
 
 This dataset can be used to perform classification techniques in hyperspectral images.
 
-## Dataset download
+## Dataset Download
 
 This data set provides two ways to download, you can download from Google network disk or Baidu network disk.
 
@@ -25,7 +25,7 @@ This self-collected dataset contains five different hyperspectral images. And th
 - Format：`.mat`
 
 
-## Dataset preview
+## Dataset Preview
 
 ![SC](https://raw.githubusercontent.com/zyx980824/HSI-dataset/main/preview/SC.png)
 
