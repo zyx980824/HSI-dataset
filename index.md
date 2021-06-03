@@ -1,4 +1,4 @@
-![ciomp](http://www.ciomp.cas.cn/images/cnc21_r1_c1.jpg)
+![ciomp](https://z3.ax1x.com/2021/06/03/23MYTO.jpg)
 
 ## Welcome to HSI-dataset
 
