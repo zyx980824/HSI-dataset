@@ -29,7 +29,7 @@ This self-collected dataset contains five different hyperspectral images. And th
 
 ![SC](https://raw.githubusercontent.com/zyx980824/HSI-dataset/main/preview/SC.png)
 
-### Support or Contact
+## Support or Contact
 
 Any questions with this dataset? Check out our paper and [contact support](https://github.com/zyx980824/HSI-dataset) and we’ll help you sort it out.
 
